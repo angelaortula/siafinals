@@ -18,3 +18,15 @@ nav a {
 nav a:hover {
   background-color: #0096c7;
 }
+.container {
+  padding: 20px;
+}
+.destination {
+  margin-bottom: 40px;
+}
+.destination img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 8px;
+}
